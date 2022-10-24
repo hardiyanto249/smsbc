@@ -39,6 +39,7 @@ public class SmsbcScheduler {
 	private final static String SORTED_FILE = "_sorted";
 	private final static String FINAL = "_final";
 	private final static String DEFAULT_SERVER = "rbtuser@10.195.30.32:/app1/rbtuser/rbt/push/src/";
+	private final static String user = "yan";
 	private static Calendar calendar = Calendar.getInstance();
 	
 	private static String dir_script="";
